@@ -2,7 +2,7 @@
 
 A beautiful and responsive weather application built with HTML, CSS, and JavaScript that provides real-time weather information for any location.
 
-![Weather App Preview](preview.png)
+![Weather App Preview](images/preview.png)
 
 ## ✨ Features
 
@@ -44,10 +44,12 @@ weather-app/
 ├── weather.html          # Main HTML file
 ├── style.css            # Stylesheet
 ├── script.js            # JavaScript functionality
-├── cloud.png           # Weather icons
-├── 404.png             # Error image
-├── mintemp.png         # Min temperature icon
-└── maxtemp.png         # Max temperature icon
+└── images/             # Image assets
+    ├── cloud.png       # Weather icons
+    ├── 404.png         # Error image
+    ├── mintemp.png     # Min temperature icon
+    ├── maxtemp.png     # Max temperature icon
+    └── preview.png     # App preview image
 ```
 
 ## 💻 Usage
@@ -71,11 +73,10 @@ Contributions are welcome! Feel free to:
 4. Push to the branch (`git push origin feature/improvement`)
 5. Open a Pull Request
 
-
 ## 📧 Contact
 
 For any questions or feedback, please open an issue in the repository.
 
 ---
-Made with ❤️ by [Parvez Mohammed]
+Made with ❤️ by Parvez Mohammed
 
